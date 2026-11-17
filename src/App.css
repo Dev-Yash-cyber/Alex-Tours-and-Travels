@@ -1,0 +1,4 @@
+/* App-level specific transitions */
+html {
+  scroll-behavior: smooth;
+}
